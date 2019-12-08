@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLTV", "QLTV\QLTV.csproj", "{5C6CF0A2-5DAF-4D3C-940B-78337A9BDA6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C6CF0A2-5DAF-4D3C-940B-78337A9BDA6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C6CF0A2-5DAF-4D3C-940B-78337A9BDA6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C6CF0A2-5DAF-4D3C-940B-78337A9BDA6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C6CF0A2-5DAF-4D3C-940B-78337A9BDA6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {001E7F30-627A-4E20-86C6-4B7D3283EDE7}
+	EndGlobalSection
+EndGlobal

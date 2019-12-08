@@ -1,0 +1,45 @@
+E:\HK1 Năm 3\Hệ quản trị CSDL\QLTV\QLTV\bin\Debug\QLTV.exe.config
+E:\HK1 Năm 3\Hệ quản trị CSDL\QLTV\QLTV\bin\Debug\QLTV.exe
+E:\HK1 Năm 3\Hệ quản trị CSDL\QLTV\QLTV\bin\Debug\QLTV.pdb
+E:\HK1 Năm 3\Hệ quản trị CSDL\QLTV\QLTV\obj\Debug\QLTV.csprojAssemblyReference.cache
+E:\HK1 Năm 3\Hệ quản trị CSDL\QLTV\QLTV\obj\Debug\QLTV.Admin.resources
+E:\HK1 Năm 3\Hệ quản trị CSDL\QLTV\QLTV\obj\Debug\QLTV.Form1.resources
+E:\HK1 Năm 3\Hệ quản trị CSDL\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+E:\HK1 Năm 3\Hệ quản trị CSDL\QLTV\QLTV\obj\Debug\QLTV.User.resources
+E:\HK1 Năm 3\Hệ quản trị CSDL\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.cache
+E:\HK1 Năm 3\Hệ quản trị CSDL\QLTV\QLTV\obj\Debug\QLTV.exe
+E:\HK1 Năm 3\Hệ quản trị CSDL\QLTV\QLTV\obj\Debug\QLTV.pdb
+C:\Users\Admin\Desktop\QLTV\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\Admin\Desktop\QLTV\QLTV\bin\Debug\QLTV.exe
+C:\Users\Admin\Desktop\QLTV\QLTV\bin\Debug\QLTV.pdb
+C:\Users\Admin\Desktop\QLTV\QLTV\obj\Debug\QLTV.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QLTV\QLTV\obj\Debug\QLTV.Admin.resources
+C:\Users\Admin\Desktop\QLTV\QLTV\obj\Debug\QLTV.Form1.resources
+C:\Users\Admin\Desktop\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\Admin\Desktop\QLTV\QLTV\obj\Debug\QLTV.qldocgia.resources
+C:\Users\Admin\Desktop\QLTV\QLTV\obj\Debug\QLTV.qlmuontra.resources
+C:\Users\Admin\Desktop\QLTV\QLTV\obj\Debug\QLTV.qlnxb.resources
+C:\Users\Admin\Desktop\QLTV\QLTV\obj\Debug\QLTV.qlsach.resources
+C:\Users\Admin\Desktop\QLTV\QLTV\obj\Debug\QLTV.qlthethuvien.resources
+C:\Users\Admin\Desktop\QLTV\QLTV\obj\Debug\QLTV.User.resources
+C:\Users\Admin\Desktop\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QLTV\QLTV\obj\Debug\QLTV.exe
+C:\Users\Admin\Desktop\QLTV\QLTV\obj\Debug\QLTV.pdb
+C:\Users\Admin\Desktop\QLTV\QLTV\obj\Debug\QLTV.thongtinuser.resources
+F:\nam3\hqtcsdl\đồ_án\QLTV\QLTV\bin\Debug\QLTV.exe.config
+F:\nam3\hqtcsdl\đồ_án\QLTV\QLTV\bin\Debug\QLTV.exe
+F:\nam3\hqtcsdl\đồ_án\QLTV\QLTV\bin\Debug\QLTV.pdb
+F:\nam3\hqtcsdl\đồ_án\QLTV\QLTV\obj\Debug\QLTV.csprojAssemblyReference.cache
+F:\nam3\hqtcsdl\đồ_án\QLTV\QLTV\obj\Debug\QLTV.Admin.resources
+F:\nam3\hqtcsdl\đồ_án\QLTV\QLTV\obj\Debug\QLTV.Form1.resources
+F:\nam3\hqtcsdl\đồ_án\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+F:\nam3\hqtcsdl\đồ_án\QLTV\QLTV\obj\Debug\QLTV.qldocgia.resources
+F:\nam3\hqtcsdl\đồ_án\QLTV\QLTV\obj\Debug\QLTV.qlmuontra.resources
+F:\nam3\hqtcsdl\đồ_án\QLTV\QLTV\obj\Debug\QLTV.qlnxb.resources
+F:\nam3\hqtcsdl\đồ_án\QLTV\QLTV\obj\Debug\QLTV.qlsach.resources
+F:\nam3\hqtcsdl\đồ_án\QLTV\QLTV\obj\Debug\QLTV.qlthethuvien.resources
+F:\nam3\hqtcsdl\đồ_án\QLTV\QLTV\obj\Debug\QLTV.thongtinuser.resources
+F:\nam3\hqtcsdl\đồ_án\QLTV\QLTV\obj\Debug\QLTV.User.resources
+F:\nam3\hqtcsdl\đồ_án\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.cache
+F:\nam3\hqtcsdl\đồ_án\QLTV\QLTV\obj\Debug\QLTV.exe
+F:\nam3\hqtcsdl\đồ_án\QLTV\QLTV\obj\Debug\QLTV.pdb
