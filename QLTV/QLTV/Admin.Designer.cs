@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Admin));
-            this.quanlyuser = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
             this.Reload = new System.Windows.Forms.Button();
             this.timkiem = new System.Windows.Forms.Button();
@@ -42,28 +41,13 @@
             this.panel3 = new System.Windows.Forms.Panel();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.label4 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.qltvDataSet1 = new QLTV.qltvDataSet();
-            this.label8 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.qltvDataSet1)).BeginInit();
             this.SuspendLayout();
-            // 
-            // quanlyuser
-            // 
-            this.quanlyuser.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.quanlyuser.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.quanlyuser.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.quanlyuser.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.quanlyuser.Location = new System.Drawing.Point(672, 134);
-            this.quanlyuser.Name = "quanlyuser";
-            this.quanlyuser.Size = new System.Drawing.Size(143, 34);
-            this.quanlyuser.TabIndex = 23;
-            this.quanlyuser.Text = "Quản lý user";
-            this.quanlyuser.UseVisualStyleBackColor = false;
             // 
             // panel1
             // 
@@ -198,16 +182,6 @@
             this.label4.TabIndex = 9;
             this.label4.Text = "Thông Tin User";
             // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(648, 9);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(139, 20);
-            this.label6.TabIndex = 30;
-            this.label6.Text = "Tên đăng nhập: ";
-            // 
             // label7
             // 
             this.label7.AutoSize = true;
@@ -222,27 +196,14 @@
             this.qltvDataSet1.DataSetName = "qltvDataSet";
             this.qltvDataSet1.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
             // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(648, 34);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(68, 20);
-            this.label8.TabIndex = 32;
-            this.label8.Text = "hiển thị";
-            // 
             // Admin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(853, 411);
-            this.Controls.Add(this.label8);
+            this.ClientSize = new System.Drawing.Size(643, 411);
             this.Controls.Add(this.label7);
-            this.Controls.Add(this.label6);
             this.Controls.Add(this.panel1);
-            this.Controls.Add(this.quanlyuser);
             this.Name = "Admin";
             this.Text = "Admin";
             this.panel1.ResumeLayout(false);
@@ -257,8 +218,6 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.Button quanlyuser;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Button sua;
         private System.Windows.Forms.Label chaychu;
@@ -270,10 +229,8 @@
         private System.Windows.Forms.Button xoa;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox tencantim;
-        private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
         private qltvDataSet qltvDataSet1;
-        private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Button Reload;
     }
 }
