@@ -86,7 +86,7 @@ create proc timkiemdocgia1
 as
 select madocgia, tendocgia, diachi, sdt, sothe
 from docgia
-where Madocgia LIKe @Tendocgia +'%';
+where tendocgia LIKe @Tendocgia +'%';
 go
 --thong tin docgia
 If OBJECT_ID('thongtindocgia') IS NOT NULL
@@ -132,7 +132,7 @@ CREATE PROC timkiemdocgia3
 as
 select madocgia, tendocgia, diachi, sdt, sothe
 from docgia
-where Madocgia LIKe @sothe+'%';
+where sothe LIKe @sothe+'%';
 go
 --updatedocgia
 If OBJECT_ID('updatedocgia') IS NOT NULL
